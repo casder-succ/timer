@@ -1,0 +1,11 @@
+# modules
+node_modules
+
+# IDE directory
+.idea
+
+# Build directory
+dist
+
+# lock file
+package-lock.json
